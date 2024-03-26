@@ -1,4 +1,4 @@
-clear
+
 %% Load Data
 clear
 read_Intan_RHD2000_file
