@@ -1,0 +1,2 @@
+Deeplabcut model for tracking objects and mouse can be found at :
+https://zenodo.org/records/10877195
